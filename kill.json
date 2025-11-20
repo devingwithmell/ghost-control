@@ -1,9 +1,1 @@
-{
-  "enabled": true,
-  "reason": "Testing user-specific killswitch",
-  "minVersion": "0.0.0",
-  "blockedHWID": [
-    "efa78969bf7a870f6c83483b077d9aaf96bd0e8ab0b3d9a7ab245051b8601b41",
-    "2ac35c1945a2d624ad4ea88627938ecd1dd77fed3d455e18b9c4b8ecd8af5d8f"
-  ]
-}
+
