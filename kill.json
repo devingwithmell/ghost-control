@@ -1,0 +1,10 @@
+{
+  "enabled": false,
+  "reason": "All systems operational",
+  "minVersion": "2.1.0",
+
+  "blockedUsers": {
+    "licenses": [],
+    "hwids": []
+  }
+}
