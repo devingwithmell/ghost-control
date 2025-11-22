@@ -1,13 +1,6 @@
 {
-  "enabled": false,
-  "reason": "Example file (edit when needed)",
-  "minVersion": "0.0.0",
-  "blockedHWID": [
-    "example-hwid-1",
-    "example-hwid-2"
-  ],
-  "template": {
-    "hwidFormat": "SHA-256 hex string, 64 characters",
-    "howToUse": "Paste HWIDs into blockedHWID to block users."
-  }
-}'
+  "enabled": true,
+  "reason": "Global shutdown. All users blocked.",
+  "minVersion": "999.0.0",
+  "blockedHWID": []
+}
